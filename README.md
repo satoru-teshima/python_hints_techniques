@@ -1,2 +1,4 @@
-# python_hints_techniques
-This is a repository to store useful python knowledge. 
+# Python Hints & Techniques
+This personal repository was made to store useful python knowledge. 
+
+- How to Markdown
